@@ -14,5 +14,5 @@ Run the script as root, or as a user that has the privilege to add/remove ip add
 Add your custom code to the function do_other_things_on_new_ipv6_assignment. That can be used to process dynamic dns updates, update system routing tables, update downstream ipv6 slaac/dhcpv6 settings, send notifications, etc...
 
 TODO:
- *Develop systemd files so that the script can be daemonized.
- *Include instructions for a fresh Ubuntu install.
+*Develop systemd files so that the script can be daemonized.
+*Include instructions for a fresh Ubuntu install.
