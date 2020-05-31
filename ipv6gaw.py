@@ -46,7 +46,7 @@ __license__ = "MIT"
 __version__ = "0.618034"
 __maintainer__ = "Ryan Richter"
 __email__ = "ryan@techyoshi.com"
-__status__ = "Pre-git"
+__status__ = "Initial Git Upload"
 
 
 class Settings:
