@@ -7,6 +7,6 @@
       "eth0": "::1234/64"
     },
     "delete_obsolete_prefixes": true,
-    "use_sudo": false,
+    "use_sudo": false
   }
 }
